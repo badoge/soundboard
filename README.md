@@ -2,9 +2,9 @@
 
 Most of the samples are recorded by me :) 
 
-but some of them are submitted by these fine people :)
+but some of them are submitted by:
 
-[merrymarian](https://www.twitch.tv/merrymarian) - [g7eternal](https://www.twitch.tv/g7eternal) - [carona4](https://www.twitch.tv/carona4) - [kiraseira](https://www.twitch.tv/kiraseira) - [noiredayz](https://www.twitch.tv/noiredayz)
+[MerryMarian](https://www.twitch.tv/merrymarian) - [g7eternal](https://www.twitch.tv/g7eternal) - [carona4](https://www.twitch.tv/carona4) - [kiraseira](https://www.twitch.tv/kiraseira) - [noiredayz](https://www.twitch.tv/noiredayz) - [GeppeiMK](https://www.twitch.tv/geppeimk)
 
 ---
 
@@ -22,4 +22,4 @@ but some of them are submitted by these fine people :)
 
 
 ## Contributing
-The best way to contribute is by sending me a twitch clip of the line on [discord](https://discord.gg/AEH2wrF8Vc) 
+The easiest and best way to contribute is by posting a twitch clip on [discord](https://discord.gg/AEH2wrF8Vc) 

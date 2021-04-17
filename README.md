@@ -10,6 +10,8 @@ but some of them are submitted by:
 
 # DOC
 
+Almost all lines are submitted by [g7eternal](https://www.twitch.tv/g7eternal)
+
 ---
 
 # nani

@@ -4,7 +4,7 @@ Most of the samples are recorded by me :)
 
 but some of them are submitted by:
 
-[MerryMarian](https://www.twitch.tv/merrymarian) - [g7eternal](https://www.twitch.tv/g7eternal) - [carona4](https://www.twitch.tv/carona4) - [kiraseira](https://www.twitch.tv/kiraseira) - [noiredayz](https://www.twitch.tv/noiredayz) - [GeppeiMK](https://www.twitch.tv/geppeimk)
+[MerryMarian](https://www.twitch.tv/merrymarian) - [g7eternal](https://www.twitch.tv/g7eternal) - [carona4](https://www.twitch.tv/carona4) - [kiraseira](https://www.twitch.tv/kiraseira) - [noiredayz](https://www.twitch.tv/noiredayz) - [GeppeiMK](https://www.twitch.tv/geppeimk) - [Raidenshii](https://www.twitch.tv/raidenshii) - [dustyfrenchfries](https://www.twitch.tv/dustyfrenchfries)
 
 ---
 

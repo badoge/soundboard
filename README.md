@@ -1,3 +1,6 @@
+[Click here to download :)](https://github.com/badoge/soundboard/archive/refs/heads/master.zip)
+I upload new samples every month or so. Some samples might get renamed or moved to a different category after each update.
+
 # forsen
 
 Most of the samples are recorded by me :) 

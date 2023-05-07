@@ -4,6 +4,8 @@ I upload new samples every month or so. Some samples might get renamed or moved 
 
 # forsen
 
+You can easily listen to the samples using [forsen.horse/soundboard](https://forsen.horse/soundboard/)
+
 Most of the samples are recorded by me :) 
 
 but some of them are submitted by:

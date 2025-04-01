@@ -30,4 +30,4 @@ Almost all lines are submitted by [g7eternal](https://www.twitch.tv/g7eternal)
 
 
 ## Contributing
-The easiest and best way to contribute is by posting a twitch clip on [discord](https://discord.gg/AEH2wrF8Vc) 
+The easiest and best way to contribute is by posting a twitch clip on [discord](https://discord.gg/FR8bgQdPUT) 
